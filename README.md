@@ -4,7 +4,7 @@ Este projeto apresenta um dashboard financeiro desenvolvido no Microsoft Excel, 
 
 ## Visual do Dashboard
 
-![Dashboard Financeiro](imagens/dashboard-financeiro.png)
+![Dashboard Financeiro](imagens\dashboard-financeiro.png)
 
 ## Objetivo do Projeto
 
