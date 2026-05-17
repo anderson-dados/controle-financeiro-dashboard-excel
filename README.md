@@ -4,7 +4,8 @@ Este projeto apresenta um dashboard financeiro desenvolvido no Microsoft Excel, 
 
 ## Visual do Dashboard
 
- ![Dashboard Financeiro](imagens/dashboard-financeiro.png)
+</>Markdown
+![Painel Financeiro](dashboard-financeiro.png)
 ## Objetivo do Projeto
 
 O objetivo deste projeto é transformar uma base simples de movimentações financeiras em um painel visual e interativo, facilitando a análise do orçamento ao longo dos meses.
